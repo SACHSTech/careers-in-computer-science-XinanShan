@@ -8,3 +8,5 @@ Video Game Developers works on teams that plan, design and produce video games o
 There are different types of responsibilities for video game developers. Video game developers are divided into different roles who hold different responsibilities. The process of making a video game is made up of different components such as planning, designing, coding, testing and maintaining. Therefore, they break each step into smaller tasks for the team to handle. 
 ## Required education for a Video Game Developer
 Video game developers are often required to have a bachelor’s degree in game development, computer science, or game design. Some employers also require them to have up to five years of experience in game programming
+## Required technical and non-technical skills
+The technical skills of a video game developer are 2D and 3D design, programming, analytical thinking, problem-solving skills and organization skills. On the other hand, non-technical skills include creativity, artistic ability, storytelling ability and being able to work as a team.
