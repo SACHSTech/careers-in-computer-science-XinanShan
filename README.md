@@ -1,5 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4680842&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science  -Andy Shan
+![image](https://github.com/SACHSTech/careers-in-computer-science-XinanShan/blob/main/Picture/Picture1.jpeg)
 ## Job description for Video Game Developer
 Video Game Developers works on teams that plan, design and produce video games on different platforms. They create visual effects for video games and write codes for the games to function and run.
 ## Typical duties and responsibilities
