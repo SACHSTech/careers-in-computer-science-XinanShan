@@ -53,3 +53,30 @@ University of Waterloo has one of the best co-op programs in Canada. It offers a
 Starting a personal project(maybe a small video game) with friends can gain non-technical skills such as project management, leadership and communication skills. It can also refine my technical skills to a higher level.
 
 Co-operative and Experiential Education offers opportunities to reinforce non-technical  skills such as resume writing and mock interviews through workshops. It also provides high-level vision and opportunities to develop or practice leadership skills 
+
+## Works Cited 
+“2021 Entry.” Ontario Universities' Application Centre, [www.ouac.on.ca/apply/secondary/en_CA/program/browse/category/14532902/description/university-of-waterloo.](https://www.ouac.on.ca/apply/secondary/en_CA/program/browse/category/14532902/description/university-of-waterloo ) 
+
+“Co-Op and Regular.” Cheriton School of Computer Science, 11 Aug. 2020, [cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular.](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular) 
+
+“Course Descriptions - Undergraduate Calendar 2021-2022.” Courses Computer Science, [ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html.](https://ucalendar.uwaterloo.ca/2122/COURSE/course-CS.html)
+
+“Game Developer Job Description.” JobHero, 20 July 2018, [www.jobhero.com/job-description/examples/computer-software/game-developer.](https://www.jobhero.com/job-description/examples/computer-software/game-developer#:~:text=Game%20developers%20work%20on%20teams,the%20game's%20features%20and%20functionality) 
+
+“Game+Developer Salary in Canada - Average Salary.” Talent.com, [ca.talent.com/salary?job=game%2Bdeveloper.](https://ca.talent.com/salary?job=game+developer)
+
+“Home.” Associate Provost, Co-Operative and Experiential Education, 17 Sept. 2020, [uwaterloo.ca/associate-provost-co-operative-and-experiential-education/.](https://uwaterloo.ca/associate-provost-co-operative-and-experiential-education/)
+
+“Home.” Clapfootgames, [www.clapfootgames.com/.]()
+
+MasterClass. “How to Become a Video Game Developer - 2021.” MasterClass, MasterClass, 8 Nov. 2020, [www.masterclass.com/articles/how-to-become-a-video-game-developer.](https://www.masterclass.com/articles/how-to-become-a-video-game-developer) 
+
+Matthew.jukes. “Video Game Designer: Job Description.” TARGETjobs, 27 Aug. 2020, [targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description.](https://targetjobs.co.uk/careers-advice/job-descriptions/454743-video-game-designer-job-description) 
+
+Nielsen, Kevin. “University of Waterloo to Continue with Distance Learning in Winter Semester.” Global News, Global News, 22 Sept. 2020, [globalnews.ca/news/7350714/university-of-waterloo-online-distanced-learning-winter-semester/.](https://globalnews.ca/news/7350714/university-of-waterloo-online-distanced-learning-winter-semester/) 
+
+“Top 1 Game+Developer Job in Richmond Hill, Ontario (with Salary!).” Workopolis, [www.workopolis.com/jobsearch/find-jobs?ak=game%2Bdeveloper&amp;l=Richmond%2BHill%2C%2BON&amp;mip=%24100%2C000&amp;lg=en&amp;job=8E25EJMElKqTGHZzTobFJ8tuZRBgFzsrrZrIwFu6VT5pa1ctGHhf3A.](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&mip=%24100%2C000&lg=en&job=8E25EJMElKqTGHZzTobFJ8tuZRBgFzsrrZrIwFu6VT5pa1ctGHhf3A)
+
+“Top 8 Game+Developer Jobs in Richmond Hill, Ontario (with Salaries!).” Workopolis, [www.workopolis.com/jobsearch/find-jobs?ak=game%2Bdeveloper&amp;l=Richmond%2BHill%2C%2BON&amp;job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA.](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)
+
+“Top 8 Game+Developer Jobs in Richmond Hill, Ontario (with Salaries!).” Workopolis, [www.workopolis.com/jobsearch/find-jobs?ak=game%2Bdeveloper&amp;l=Richmond%2BHill%2C%2BON&amp;job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw.](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw)
