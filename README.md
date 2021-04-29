@@ -23,5 +23,6 @@ The [average salary of a video game developer in Canada](https://ca.talent.com/s
 **Backend Programmer (MMO Game Services) working for Clapfoot Inc**:The responsibilities for a Backend Programmer include develop web tools to monitor server performance, player activity, and other live datator, create tools to efficiently manage the game server, improve build pipelines, backup and recovery systems, security protocols for server infrastructure, and deploy servers to development, test, and live environment, monitoring server health on a regular basis
 
 **3D Programmer (Far Cry 6) working for Ubisoft Toronto Inc.**: The responsibilities for this position includes programming code customized to the hardware they are working with, exploring the new hardwares through its challenge, meeting the artists needs and vision, improving the code’s performance, and staying in the forefront of their field by focusing on the latest relevant academic literature
-# 
+ 
 ## College and/or universities that offers entrance into a related program
+### Universtiy of Waterloo
