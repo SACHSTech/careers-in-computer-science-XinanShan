@@ -43,4 +43,13 @@ The entrance requirements for the computer science program in Waterloo are six G
 * Linear Algebra 1
 * Calculus 2
 * two electives.
+# 
 ### The length of time to complete the degree or diploma for the course
+The time length to complete the Bachelor of Computer Science degree is four years. The time length undergraduates in the co-op program is increased to 5 years. However, it is a co-op or regular program, so the students have a choice to be a part of the co-op program or not. 
+# 
+## Valuable experiential learning opportunities that make for a stronger job candidate
+University of Waterloo has one of the best co-op programs in Canada. It offers a great opportunity to learn with real world experience. With a Co-op program, students can graduate with up to two years of working experience which some employers require. 
+
+Starting a personal project(maybe a small video game) with friends can gain non-technical skills such as project management, leadership and communication skills. It can also refine my technical skills to a higher level.
+
+Co-operative and Experiential Education offers opportunities to reinforce non-technical  skills such as resume writing and mock interviews through workshops. It also provides high-level vision and opportunities to develop or practice leadership skills 
