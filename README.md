@@ -26,6 +26,8 @@ The [average salary of a video game developer in Canada](https://ca.talent.com/s
  
 ## College and/or universities that offers entrance into a related program
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-XinanShan/blob/main/Picture/university-of-waterloo.jpg)
+University of Waterloo has one of the best computer science programs in Canada. It also has one of the best co-op programs in Canada which includes computer science. 
+
 ### Entrance requirements
 The entrance requirements for the computer science program in Waterloo are six Grade 12 U and /or courses including Advance Functions, Calculus and Vectors. The admission average for these six courses must be around low 90s.
 # 
