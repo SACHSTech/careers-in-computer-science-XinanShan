@@ -26,3 +26,4 @@ The [average salary of a video game developer in Canada](https://ca.talent.com/s
  
 ## College and/or universities that offers entrance into a related program
 ### Universtiy of Waterloo
+![alt text](https://github.com/SACHSTech/careers-in-computer-science-XinanShan/blob/main/Picture/university-of-waterloo.jpg)
