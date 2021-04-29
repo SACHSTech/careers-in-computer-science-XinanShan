@@ -25,5 +25,22 @@ The [average salary of a video game developer in Canada](https://ca.talent.com/s
 **3D Programmer (Far Cry 6) working for Ubisoft Toronto Inc.**: The responsibilities for this position includes programming code customized to the hardware they are working with, exploring the new hardwares through its challenge, meeting the artists needs and vision, improving the code’s performance, and staying in the forefront of their field by focusing on the latest relevant academic literature
  
 ## College and/or universities that offers entrance into a related program
-### Universtiy of Waterloo
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-XinanShan/blob/main/Picture/university-of-waterloo.jpg)
+### Entrance requirements
+The entrance requirements for the computer science program in Waterloo are six Grade 12 U and /or courses including Advance Functions, Calculus and Vectors. The admission average for these six courses must be around low 90s.
+# 
+### Description of first year program (courses) that you would take
+**During the first year of computer science program, the courses needed to take during September to December**:
+* Designing Functional Programs
+* Algebra
+* Calculus 1
+* one communication skills course 
+* one elective
+
+**During the first year of computer science program, the courses needed to take during January to April**:
+* Algorithm Design 
+* Data Abstraction
+* Linear Algebra 1
+* Calculus 2
+* two electives.
+### The length of time to complete the degree or diploma for the course
