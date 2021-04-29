@@ -15,7 +15,13 @@ The [average salary of a video game developer in Canada](https://ca.talent.com/s
 # 
 | Levels of job        | Job name           | Salary Name  |
 | ------------- |:-------------:| -----:|
-| Entry-level position      | Game developer working for Creative Game Technologies | $53,000-$73,000 |
-| Mid-level position      | Backend Programmer (MMO Game Services) working for Clapfoot Inc      |   $73,000 to $100,000
-| Senior-level position | 3D Programmer (Far Cry 6) working for Ubisoft Toronto Inc.  |  $80,000 to $120,000 |
+| Entry-level position      | [Game developer working for Creative Game Technologies](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=ob8UWSlSVqYsGHwOxcAvAnVWGf7L6sWwEShqBURcy_U3f9kD-GtwDw) | $53,000-$73,000 |
+| Mid-level position      | [Backend Programmer (MMO Game Services) working for Clapfoot Inc](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&job=kP8vXeBGKxRbVSRlar-rEspeXFL7lBgRpyGnnHPvoViKnNcjbwIdSA)      |   $73,000 to $100,000
+| Senior-level position | [3D Programmer (Far Cry 6) working for Ubisoft Toronto Inc.](https://www.workopolis.com/jobsearch/find-jobs?ak=game+developer&l=Richmond+Hill%2C+ON&mip=%24100%2C000&lg=en&job=8E25EJMElKqTGHZzTobFJ8tuZRBgFzsrrZrIwFu6VT5pa1ctGHhf3A)  |  $80,000 to $120,000 |
+**Game developer working for Creative Game Technologies**: As a game developer, it is required to have at least 1 year experience working with Unity3D and show proficiency using C# to program.
 
+**Backend Programmer (MMO Game Services) working for Clapfoot Inc**:The responsibilities for a Backend Programmer include develop web tools to monitor server performance, player activity, and other live datator, create tools to efficiently manage the game server, improve build pipelines, backup and recovery systems, security protocols for server infrastructure, and deploy servers to development, test, and live environment, monitoring server health on a regular basis
+
+**3D Programmer (Far Cry 6) working for Ubisoft Toronto Inc.**: The responsibilities for this position includes programming code customized to the hardware they are working with, exploring the new hardwares through its challenge, meeting the artists needs and vision, improving the code’s performance, and staying in the forefront of their field by focusing on the latest relevant academic literature
+# 
+## College and/or universities that offers entrance into a related program
